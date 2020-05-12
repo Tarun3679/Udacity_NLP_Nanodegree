@@ -1,7 +1,5 @@
 # Udacity - Natural Language Processing Nanodegree
 
-![NLP](nlpnd-certificate.png)
-
 # Projects of Natural Language Processing
 
 1. [Part-Of-Speech Tagger with Hidden Markove Model](https://github.com/udacity/hmm-tagger)
